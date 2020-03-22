@@ -1,0 +1,4 @@
+C:\Users\mrt_b\Desktop\Kod S Hesap Makinesi v3.0\Kod S Hesap Makinesi v3.0\bin\Debug\Kod S Hesap Makinesi v3.0.exe
+C:\Users\mrt_b\Desktop\Kod S Hesap Makinesi v3.0\Kod S Hesap Makinesi v3.0\bin\Debug\Kod S Hesap Makinesi v3.0.pdb
+C:\Users\mrt_b\Desktop\Kod S Hesap Makinesi v3.0\Kod S Hesap Makinesi v3.0\obj\x86\Debug\Kod S Hesap Makinesi v3.0.exe
+C:\Users\mrt_b\Desktop\Kod S Hesap Makinesi v3.0\Kod S Hesap Makinesi v3.0\obj\x86\Debug\Kod S Hesap Makinesi v3.0.pdb
